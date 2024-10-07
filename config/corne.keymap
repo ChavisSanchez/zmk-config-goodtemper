@@ -33,8 +33,8 @@
 
             bindings = <
 &kp NUMBER_1    &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5         &trans    &trans  &kp NUMBER_6  &kp N7     &kp N8            &kp N9             &kp N0
-&kp TAB         &trans        &kp UP_ARROW  &trans        &kp BACKSPACE  &trans    &trans  &kp MINUS     &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH
-&kp LEFT_SHIFT  &kp LEFT      &kp DOWN      &kp RIGHT     &trans         &trans    &trans  &trans        &trans     &kp SQT           &kp ESCAPE         &kp CAPS
+&kp LEFT_SHIFT  &trans        &kp UP_ARROW  &trans        &kp BACKSPACE  &trans    &trans  &kp MINUS     &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH
+&kp TAB         &kp LEFT      &kp DOWN      &kp RIGHT     &trans         &trans    &trans  &trans        &trans     &kp SQT           &kp ESCAPE         &kp CAPS
                                             &trans        &trans         &trans    &trans  &trans        &trans
             >;
         };
