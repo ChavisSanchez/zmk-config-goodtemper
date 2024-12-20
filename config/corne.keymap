@@ -20,7 +20,7 @@
 &kp Q             &kp W           &kp F        &kp P        &kp G      &kp N0    &kp N0  &kp J      &kp L            &kp U        &kp Y       &kp SEMI
 &mt LEFT_SHIFT A  &mt LEFT_ALT R  &mt LCTRL S  &mt LMETA T  &kp D      &kp N0    &kp N0  &kp H      &mt RMETA N      &mt RCTRL E  &mt RALT I  &mt RSHFT O
 &kp Z             &kp X           &kp C        &kp V        &kp B      &kp N0    &kp N0  &kp K      &kp M            &kp COMMA    &kp DOT     &kp SLASH
-                                               &lt 1 TAB    &kp SPACE  &none     &none   &kp ENTER  &lt 2 BACKSPACE
+                                               &lt 1 TAB    &studio_unlock  &none     &none   &kp ENTER  &lt 2 BACKSPACE
             >;
         };
 
